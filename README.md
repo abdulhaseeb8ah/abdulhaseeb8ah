@@ -285,24 +285,6 @@ Centralized API gateway connecting 15+ third-party services with unified auth.
 
 <br/>
 
-### 💬 Get In Touch
-
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://calendly.com/yourlink">
-    <img src="https://img.shields.io/badge/📅_Schedule_Call-4285F4?style=for-the-badge&logo=google-meet&logoColor=white" alt="Schedule"/>
-  </a>
-  <a href="https://wa.me/yourNumber">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<br/>
 
 **⚡ Quick Response** • **🌍 Remote Ready** • **🤝 Long-term Partnerships**
 
