@@ -225,8 +225,7 @@ Centralized API gateway connecting 15+ third-party services with unified auth.
 ## 🎓 Education
 - FAST-NUCES (National University of Computer and Emerging Sciences)<br/>
 - Bachelor of Science in Software Engineering <br/>
-- Specialization: Full Stack Development & AI Autmation <br/>
-- Achievement: Graduated with Distinction <br/>
+- Specialization: Full Stack Development & AI Automation <br/>
 
 <br/>
 
