@@ -1,88 +1,317 @@
-# Hi there, I'm Abdul Haseeb 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Haseeb&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=25" width="100%" alt="Header"/>
 
-#### React Full Stack Developer | AI Automation Specialist | Laravel & Next.js Expert
-> Software Engineer (BS) | 4+ Years Experience | Building Scalable Platforms & AI Workflows
+<p align="center">
+  <a href="https://www.linkedin.com/in/therealhaseeb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:workinfo.haseeb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=React+%7C+Laravel+%7C+Next.js+Expert;4%2B+Years+Building+Scalable+Platforms;AI+Automation+%26+Integration+Specialist;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</p>
+
+<br/>
+
+## 🎯 About Me
+
+I'm a **Full Stack Engineer** based in **Karachi, Pakistan 🇵🇰**, with over **4+ years of experience** building enterprise-level applications. I hold a **BS in Software Engineering from FAST-NUCES**, where I developed a strong foundation in creating scalable, secure, and maintainable systems. Currently, I'm focused on architecting **Enterprise SaaS Platforms**, developing **AI Automation Systems**, and building **Complex API Integrations** that solve real-world business challenges. My philosophy is simple: write clean, well-documented code that not only works today but scales effortlessly as your business grows. I'm passionate about bridging the gap between powerful backend logic and intuitive frontend experiences, always treating every project as a partnership where your success is my success. Whether you need a custom platform built from scratch, AI-powered automation, or performance optimization for existing systems, I'm here to transform your vision into digital reality.
+
+<br/>
+
+## 🚀 What I Do Best
+
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<br><strong>Full Stack<br/>Websites</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="API"/>
+<br><strong>API<br/>Development</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="AI"/>
+<br><strong>AI<br/>Integration</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Database"/>
+<br><strong>Database<br/>Design</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="Cloud"/>
+<br><strong>Cloud<br/>Solutions</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details open>
+<summary><h2>💼 Featured Projects</h2></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" style="background-color: #f6f8fa;">
+
+### 🏆 Freelance Marketplace SaaS
+<sub>**Lead Full Stack Developer**</sub>
+
+Architected a comprehensive bidding platform using React.js & Laravel with AI-powered features.
+
+#### Key Achievements
+- 🎯 AI-powered budget estimation engine
+- 🔒 Secure, scalable database architecture  
+- 📈 10K+ concurrent users supported
+- ⚡ 99.9% uptime maintained
+
+#### Tech Stack
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+</td>
+<td width="50%" style="background-color: #f6f8fa;">
+
+### 🤖 AI Budget Forecasting Engine
+<sub>**AI/ML Engineer**</sub>
+
+NLP system analyzing job descriptions to predict competitive budget ranges in real-time.
+
+#### Key Achievements
+- 📊 90% prediction accuracy achieved
+- ⚡ Sub-2s real-time analysis
+- 🧠 50K+ historical data points trained
+- 💰 Optimized pricing for clients
+
+#### Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="background-color: #f6f8fa;">
+
+### 🛒 E-Commerce Optimization
+<sub>**Performance Engineer**</sub>
+
+Refactored high-traffic WooCommerce platform serving 100K+ monthly active users.
+
+#### Key Achievements
+- ⚡ 40% load speed improvement
+- 🔧 Custom plugin architecture
+- 💳 Optimized checkout experience
+- 📦 Enhanced inventory management
+
+#### Tech Stack
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+</td>
+<td width="50%" style="background-color: #f6f8fa;">
+
+### 🔗 Enterprise API Hub
+<sub>**Backend Architect**</sub>
+
+Centralized API gateway connecting 15+ third-party services with unified auth.
+
+#### Key Achievements
+- 🔄 Unified authentication layer
+- 📝 Auto-generated API docs
+- 🛡️ Advanced rate limiting
+- 📊 Real-time monitoring dashboard
+
+#### Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+#### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/>
+</p>
+
+</td>
+<td width="25%" align="center">
+
+#### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+</p>
+
+</td>
+<td width="25%" align="center">
+
+#### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+</p>
+
+</td>
+<td width="25%" align="center">
+
+#### DevOps
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+</div>
+
+<br/>
+
+## 🎓 Education
+- FAST-NUCES (National University of Computer and Emerging Sciences)<br/>
+- Bachelor of Science in Software Engineering <br/>
+- Specialization: Full Stack Development & AI Autmation <br/>
+- Achievement: Graduated with Distinction <br/>
+
+<br/>
+
+## 💡 Why Work With Me?
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="48" alt="Engineering"/>
+<h3>🎯 Engineering Excellence</h3>
+<p>Not just code—architected solutions. Every line written with scalability, security, and maintainability in focus.</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="64" alt="Partnership"/>
+<h3>🤝 True Partnership</h3>
+<p>Your success is my mission. Transparent communication, proactive updates, and dedication to your goals.</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64" alt="Scale"/>
+<h3>⚡ Built to Scale</h3>
+<p>Clean, documented code that grows with you. From MVP to enterprise-level, systems designed for the long run.</p>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-### 🚀 Elevating Businesses with Robust Web Solutions
+<div align="center">
 
-My expertise centers around leveraging advanced Full Stack technologies like **Next.js** and **Laravel** to solve complex technical challenges. Whether you need a fully customized platform ⚙️, a completely revamped UI 🛡️, complex API Integrations 🤝, or intelligent AI Automation to streamline workflows, I am here to deliver high-impact tech solutions.
+## 📬 Let's Connect!
 
-I bridge the gap between robust backends (Laravel/Node.js) and interactive frontends (React), collaborating closely with stakeholders to translate business goals into elegant digital products.
+### 🚀 Available For
 
-🛠️ **Core Focus:** Engineering clean, maintainable code built to handle growth and high user loads.
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Development"/>
+<br/><strong>Full Stack<br/>Development</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="AI"/>
+<br/><strong>AI Integration &<br/>Automation</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/speed.png" alt="Performance"/>
+<br/><strong>Performance<br/>Optimization</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/consulting.png" alt="Consulting"/>
+<br/><strong>Technical<br/>Consulting</strong>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### ⭐ Recent Success Stories
+### 💬 Get In Touch
 
-My portfolio includes delivering enterprise platforms, custom architectures, and secure API integrations. Here are a few highlights:
+<p>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://calendly.com/yourlink">
+    <img src="https://img.shields.io/badge/📅_Schedule_Call-4285F4?style=for-the-badge&logo=google-meet&logoColor=white" alt="Schedule"/>
+  </a>
+  <a href="https://wa.me/yourNumber">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-#### **Freelance Marketplace SaaS (Lead Developer)**
-> Architected a comprehensive bidding platform using **React.js & Laravel**. Engineered a secure, scalable database schema and integrated an AI-powered budget estimation engine.
+<br/>
 
-#### **AI-Driven Budget Forecasting Engine**
-> Engineered a system using **Natural Language Processing (NLP)** that analyzes job descriptions in real-time and predicts competitive budget ranges based on historical market data, enabling data-backed pricing decisions.
+**⚡ Quick Response** • **🌍 Remote Ready** • **🤝 Long-term Partnerships**
 
-#### **High-Traffic E-Commerce Optimization**
-> Refactored a complex WooCommerce architecture, improving **load speeds by 40%** and implementing custom plugin logic to handle high-volume transactions.
+<br/>
 
----
+<sub>**💙 Thanks for visiting! Feel free to star repositories you find valuable**</sub>
 
-### 🏆 Why choose me as your Full Stack Engineer?
+</div>
 
-* ✅ **Engineering Foundation:** BS in Software Engineering from FAST-NUCES. I don't just write code; I design secure systems.
-* ✅ **Quality & Scale:** I focus on writing clean code that is built to handle scale.
-* ✅ **Proactive Partner:** Clear, transparent updates. I treat your project as my own and act as a technical partner for your digital transformation.
-* ✅ **Versatile Stack:** I combine the flexibility of modern frameworks (React/Next.js) with the structure of strict backend principles (Laravel/.NET).
+<br/>
 
----
-
-### 🔥 My Technical Toolbox
-
-I specialize in transforming complex business needs into functional applications using these technologies:
-
-**Frontend & Interface**
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5/CSS3](https://img.shields.io/badge/-HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Backend & APIs**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-000?style=flat-square)
-
-**AI & Automation**
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-Custom_AI_Agents-000?style=flat-square)
-![Automation](https://img.shields.io/badge/-Business_Logic_Automation-000?style=flat-square)
-
-**Databases & BaaS**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
----
-
-### 🤝 Let's Collaborate!
-
-Looking for a long-term, win-win partnership? Contact me for a project audit, technical consultation, or to develop a roadmap for your project—whether you need a custom SaaS platform, a sophisticated automation script, or a complete system overhaul.
-
-[Start a conversation](mailto:your.email@example.com) Looking forward to building something great together.
-
-Best Regards,
-**Abdul Haseeb**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
