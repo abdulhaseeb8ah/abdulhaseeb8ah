@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🎯 About Me
+## About Me
 
 Abdul Haseeb is a Full Stack Software Engineer specializing in building modern web applications and automation tools for high-growth businesses. Based in Pakistan and a FAST-NUCES alumnus, Abdul helps early-stage companies transform their ideas into functional, scalable digital products .
 
@@ -20,7 +20,7 @@ Dedicated to transparency and reliable delivery, Abdul Haseeb bridges the gap be
 
 <br/>
 
-## 🚀 What I Do Best
+## What I Do Best
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Dedicated to transparency and reliable delivery, Abdul Haseeb bridges the gap be
 <br/>
 
 <details open>
-<summary><h2>💼 Featured Projects</h2></summary>
+<summary><h2>Featured Projects</h2></summary>
 
 <br/>
 
@@ -58,16 +58,16 @@ Dedicated to transparency and reliable delivery, Abdul Haseeb bridges the gap be
 <tr>
 <td width="50%" style="background-color: #f6f8fa;">
 
-### 🏆 Freelance Marketplace SaaS
+### Freelance Marketplace SaaS
 <sub>**Lead Full Stack Developer**</sub>
 
 Architected a comprehensive bidding platform using React.js & Laravel with AI-powered features.
 
 #### Key Achievements
-- 🎯 AI-powered budget estimation engine
-- 🔒 Secure, scalable database architecture  
-- 📈 10K+ concurrent users supported
-- ⚡ 99.9% uptime maintained
+- AI-powered budget estimation engine
+- Secure, scalable database architecture  
+- 10K+ concurrent users supported
+- 99.9% uptime maintained
 
 #### Tech Stack
 <p>
@@ -81,16 +81,16 @@ Architected a comprehensive bidding platform using React.js & Laravel with AI-po
 </td>
 <td width="50%" style="background-color: #f6f8fa;">
 
-### 🤖 AI Budget Forecasting Engine
+### AI Budget Forecasting Engine
 <sub>**AI/ML Engineer**</sub>
 
 NLP system analyzing job descriptions to predict competitive budget ranges in real-time.
 
 #### Key Achievements
-- 📊 90% prediction accuracy achieved
-- ⚡ Sub-2s real-time analysis
-- 🧠 50K+ historical data points trained
-- 💰 Optimized pricing for clients
+- 90% prediction accuracy achieved
+- Sub-2s real-time analysis
+- 50K+ historical data points trained
+- Optimized pricing for clients
 
 #### Tech Stack
 <p>
@@ -106,16 +106,16 @@ NLP system analyzing job descriptions to predict competitive budget ranges in re
 <tr>
 <td width="50%" style="background-color: #f6f8fa;">
 
-### 🛒 E-Commerce Optimization
+### E-Commerce Optimization
 <sub>**Performance Engineer**</sub>
 
 Refactored high-traffic WooCommerce platform serving 100K+ monthly active users.
 
 #### Key Achievements
-- ⚡ 40% load speed improvement
-- 🔧 Custom plugin architecture
-- 💳 Optimized checkout experience
-- 📦 Enhanced inventory management
+- 40% load speed improvement
+- Custom plugin architecture
+- Optimized checkout experience
+- Enhanced inventory management
 
 #### Tech Stack
 <p>
@@ -128,16 +128,16 @@ Refactored high-traffic WooCommerce platform serving 100K+ monthly active users.
 </td>
 <td width="50%" style="background-color: #f6f8fa;">
 
-### 🔗 Enterprise API Hub
+### Enterprise API Hub
 <sub>**Backend Architect**</sub>
 
 Centralized API gateway connecting 15+ third-party services with unified auth.
 
 #### Key Achievements
-- 🔄 Unified authentication layer
-- 📝 Auto-generated API docs
-- 🛡️ Advanced rate limiting
-- 📊 Real-time monitoring dashboard
+- Unified authentication layer
+- Auto-generated API docs
+- Advanced rate limiting
+- Real-time monitoring dashboard
 
 #### Tech Stack
 <p>
@@ -155,7 +155,7 @@ Centralized API gateway connecting 15+ third-party services with unified auth.
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
@@ -221,30 +221,27 @@ Centralized API gateway connecting 15+ third-party services with unified auth.
 
 <br/>
 
-## 🎓 Education
+## Education
 - FAST-NUCES (National University of Computer and Emerging Sciences)<br/>
 - Bachelor of Science in Software Engineering <br/>
 - Specialization: Full Stack Development & AI Automation <br/>
 
 <br/>
 
-## 💡 Why Work With Me?
+## Why Work With Me?
 
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="48" alt="Engineering"/>
-<h3>🎯 Engineering Excellence</h3>
+<h3>Engineering Excellence</h3>
 <p>Not just code—architected solutions. Every line written with scalability, security, and maintainability in focus.</p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="64" alt="Partnership"/>
-<h3>🤝 True Partnership</h3>
+<h3>True Partnership</h3>
 <p>Your success is my mission. Transparent communication, proactive updates, and dedication to your goals.</p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64" alt="Scale"/>
-<h3>⚡ Built to Scale</h3>
+<h3>Built to Scale</h3>
 <p>Clean, documented code that grows with you. From MVP to enterprise-level, systems designed for the long run.</p>
 </td>
 </tr>
@@ -256,26 +253,22 @@ Centralized API gateway connecting 15+ third-party services with unified auth.
 
 <div align="center">
 
-## 📬 Let's Connect!
+## Let's Connect!
 
-### 🚀 Available For
+### Available For
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Development"/>
 <br/><strong>Full Stack<br/>Development</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="AI"/>
-<br/><strong>AI Integration &<br/>Automation</strong>
+<br/><strong>AI Automations</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/speed.png" alt="Performance"/>
 <br/><strong>Performance<br/>Optimization</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/consulting.png" alt="Consulting"/>
 <br/><strong>Technical<br/>Consulting</strong>
 </td>
 </tr>
@@ -284,14 +277,12 @@ Centralized API gateway connecting 15+ third-party services with unified auth.
 <br/>
 
 
-**⚡ Quick Response** • **🌍 Remote Ready** • **🤝 Long-term Partnerships**
+**Quick Response** • **Remote Ready** • **Long-term Partnerships**
 
 <br/>
 
-<sub>**💙 Thanks for visiting! Feel free to star repositories you find valuable**</sub>
+<sub>**Thanks for visiting! Feel free to star repositories you find valuable**</sub>
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
