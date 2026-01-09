@@ -1,17 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Haseeb&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=25" width="100%" alt="Header"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/therealhaseeb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:workinfo.haseeb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=React+%7C+Laravel+%7C+Next.js+Expert;4%2B+Years+Building+Scalable+Platforms;AI+Automation+%26+Integration+Specialist;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
-</p>
+<div align="center" style="margin-top:-40px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=React+%7C+Laravel+%7C+Next.js+Expert;4%2B+Years+Building+Scalable+Platforms;AI+Automation+%26+Integration+Specialist;Transforming+Ideas+into+Digital+Reality"
+    style="display:block;"
+    alt="Typing SVG"
+  />
+</div>
 
 <br/>
 
