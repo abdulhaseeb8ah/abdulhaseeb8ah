@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Haseeb&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=25" width="100%" alt="Header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/therealhaseeb">
