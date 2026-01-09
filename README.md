@@ -17,7 +17,11 @@
 
 ## 🎯 About Me
 
-I'm a **Full Stack Engineer** based in **Karachi, Pakistan 🇵🇰**, with over **4+ years of experience** building enterprise-level applications. I hold a **BS in Software Engineering from FAST-NUCES**, where I developed a strong foundation in creating scalable, secure, and maintainable systems. Currently, I'm focused on architecting **Enterprise SaaS Platforms**, developing **AI Automation Systems**, and building **Complex API Integrations** that solve real-world business challenges. My philosophy is simple: write clean, well-documented code that not only works today but scales effortlessly as your business grows. I'm passionate about bridging the gap between powerful backend logic and intuitive frontend experiences, always treating every project as a partnership where your success is my success. Whether you need a custom platform built from scratch, AI-powered automation, or performance optimization for existing systems, I'm here to transform your vision into digital reality.
+Abdul Haseeb is a Full Stack Software Engineer specializing in building modern web applications and automation tools for high-growth businesses. Based in Pakistan and a FAST-NUCES alumnus, Abdul helps early-stage companies transform their ideas into functional, scalable digital products .
+
+Proficient in React, Next.js, Laravel, and Python, Abdul Haseeb focuses on delivering clean, maintainable code that allows businesses to scale efficiently from their first users to their first million. He specializes in SaaS development, custom web apps, and AI integrations that streamline operations and maximize ROI for growing brands.
+
+Dedicated to transparency and reliable delivery, Abdul Haseeb bridges the gap between technical complexity and business goals. Whether you are launching a new platform or automating manual workflows, he provides the engineering foundation needed to achieve measurable results and long-term success
 
 <br/>
 
