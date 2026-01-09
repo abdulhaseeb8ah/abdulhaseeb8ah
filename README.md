@@ -14,7 +14,7 @@
 
 Abdul Haseeb is a Full Stack Software Engineer specializing in building modern web applications and automation tools for high-growth businesses. Based in Pakistan and a FAST-NUCES alumnus, Abdul helps early-stage companies transform their ideas into functional, scalable digital products .
 
-Proficient in React, Next.js, Laravel, and Python, Abdul Haseeb focuses on delivering clean, maintainable code that allows businesses to scale efficiently from their first users to their first million. He specializes in SaaS development, custom web apps, and AI integrations that streamline operations and maximize ROI for growing brands.
+Proficient in React, Next.js, Laravel, and Python, Abdul Haseeb focuses on delivering clean, maintainable code that allows businesses to scale efficiently. He specializes in SaaS development, custom web apps, and AI integrations that streamline operations and maximize ROI for growing brands.
 
 Dedicated to transparency and reliable delivery, Abdul Haseeb bridges the gap between technical complexity and business goals. Whether you are launching a new platform or automating manual workflows, he provides the engineering foundation needed to achieve measurable results and long-term success
 
